@@ -15,6 +15,6 @@ might be.  this can cause problems for building RPMs or DEBs.  to handle that, t
 tagged docker images that provide the same python-setuptools interface but based
 on a different OS:
 
-   * `latest`: ubuntu:trusty (./Dockerfile)
-   * `centos7`: centos:7 (./centos7/Dockerfile)
+   * `latest`: ubuntu:trusty [Dockerfile](Dockerfile)
+   * `centos7`: centos:7 [centos7/Dockerfile](centos7/Dockerfile)
  
